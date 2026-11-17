@@ -1,0 +1,4 @@
+{"game_number":1,"datetime":"2026-11-17T16:00:09.520Z","secret":"орёл","guess":"орёл","result":"win"}
+{"game_number":2,"datetime":"2026-11-17T16:00:15.720Z","secret":"орёл","guess":"орёл","result":"win"}
+{"game_number":3,"datetime":"2026-11-17T16:00:20.436Z","secret":"решка","guess":"орёл","result":"lose"}
+{"game_number":4,"datetime":"2026-11-17T16:00:23.748Z","secret":"решка","guess":"решка","result":"win"}
